@@ -1,0 +1,42 @@
+RPL Training — Basti, Uttar Pradesh (Jan-March 2021)
+
+Short project summary
+
+Coordinated Recognition of Prior Learning (RPL) training for ~200 candidates in Basti district (Belari & Ranipur), Uttar Pradesh. The objective was to mobilize participants, manage all logistics and records, and coordinate assessments and reporting with government agencies and private vendors.
+
+What this repository contains
+
+This repository is intended to be a clean, public-facing archive of the RPL training project. It should host:
+
+High-quality photos from the training (stored in images/).
+
+
+This Project_Details (project summary, responsibilities, captions and how to use the repo).
+
+My role — responsibilities (what I actually did)
+
+I led end-to-end field coordination for the RPL training program. My core responsibilities included:
+
+Stakeholder engagement & approvals — Liaised with UPSDM government officials (DPM, operators) and the local ITI principal; presented the project plan, clarified deliverables, and secured approvals.
+
+Venue & logistics management — Booked training venues and coordinated with private vendors to set up all required logistics (seating, power, equipment placement, training materials, and safety measures).
+
+Community mobilization — Met village leaders and residents to explain program benefits, answered concerns, and convinced eligible participants to register and join the program.
+
+Data & record management — Created and maintained the candidate database: registration, attendance logs, feedback forms, and assessment records.
+
+Media for reporting — Captured photographs and supporting images used by the agency and government partners to prepare official reports.
+
+Assessment coordination — Managed assessment events at the end of training: coordinated examiners, scheduled exam slots, handled verification with government agencies, and ensured candidate readiness.
+
+On-the-job learning — Strengthened practical skills: project management, stakeholder negotiation, field logistics, and government coordination.
+
+Outcomes & impact
+
+200 candidates trained (multiple batches across Belari and Ranipur).
+
+Smooth coordination with government agencies and successful conduct of end-of-training assessments.
+
+Clean candidate records (attendance/feedback) stored for audit and reporting.
+
+
